@@ -1,0 +1,17 @@
+{
+  "id": "Interface_CurrentLoop/XTR116U:XTR116U",
+  "name": "XTR116U",
+  "library": "Interface_CurrentLoop",
+  "file": "Interface_CurrentLoop.kicad_symdir/XTR116U.kicad_sym",
+  "description": "4-20mA Current Loop Transmitter, VREF 4.096V, SO-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/xtr115.pdf",
+  "keywords": "4-20mA Current Loop Transmitter",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "XTR115U",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-currentloop@master/parts/XTR116U/",
+  "part_path": "parts/XTR116U",
+  "symbol_file": "parts/XTR116U/XTR116U.kicad_sym",
+  "source_library": "Interface_CurrentLoop.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:49.039Z"
+}
